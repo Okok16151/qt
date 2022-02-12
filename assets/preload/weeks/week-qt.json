@@ -1,0 +1,43 @@
+{
+	"storyName": "qt-week",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"carefree",
+			"qt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"careless",
+			"qt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"censory-overload",
+			"robot",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "qt-week"
+}

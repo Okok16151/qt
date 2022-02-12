@@ -1,0 +1,39 @@
+{
+	"storyName": "qt bonus week",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week-qt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"termination",
+			"robot",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"cessation",
+			"qt-kbv2",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "qt bonus week"
+}

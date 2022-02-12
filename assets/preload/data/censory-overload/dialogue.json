@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "phase 2 error",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qtportaitalt2"
+		},
+		{
+			"expression": "talk",
+			"text": "human life still detected",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qtportaitalt2"
+		},
+		{
+			"expression": "talk",
+			"text": "moving to phase 3.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "qtportaitalt2"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "roboportait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nothing personal kid."
+		}
+	]
+}

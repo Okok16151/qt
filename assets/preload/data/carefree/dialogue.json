@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "oh hey cutie!",
+			"boxState": "normal",
+			"portrait": "qtportait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "i was looking for you!",
+			"boxState": "normal",
+			"portrait": "qtportait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "i heard you're pretty hot stuff,\\nso i want to challenge you!",
+			"boxState": "normal",
+			"portrait": "qtportait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "hey, if i win, could we hang out some more",
+			"boxState": "normal",
+			"portrait": "qtportait",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bop beep skdoo",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}
